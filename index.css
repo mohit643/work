@@ -1,0 +1,37 @@
+body{
+  margin: 0px;
+  background-color: aqua;
+  }
+  h1{
+    text-align: center;
+      }
+      form{
+        text-align: center;
+    background-color: white;
+    margin: 0px 2rem;
+    
+    height: -webkit-fill-available;
+
+
+
+      }
+      table{
+        height: 70%;
+        padding-right: 30%;
+        width: 100%;
+        
+      }
+    .text{
+      text-align: end;
+      margin: 12px;
+    }
+    p{
+      padding-top: 30px;
+    }
+    .block{
+      display: table-caption;
+    white-space: pre;
+    }
+    button{
+      margin: 20px;
+    }
